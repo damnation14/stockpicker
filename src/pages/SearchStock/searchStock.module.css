@@ -1,0 +1,25 @@
+
+.searchBarContainer {
+  margin-top: 4rem;
+  max-width: 25%;
+  min-width: inherit;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search {
+    display: flex;
+    margin-left: 0;
+    width: 100%;
+    border: 1px solid grey;
+    justify-content: space-between;
+}
+
+.searchIcon {
+  align-items: center;
+  justify-content: center;
+  padding: 0.2rem
+}
+
+.inputRoot {
+  padding-left: 0.4rem;
+}
